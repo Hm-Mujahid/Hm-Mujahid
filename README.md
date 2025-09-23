@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0CF7E2&width=600&lines=Hi%2C+I'm+Mujahid+Pasha.;Yes%2C+this+is+a+README;Fine%2C+Scroll+down...)](https://git.io/typing-svg)
+##Heyy
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=550&lines=👋+Hi%2C+I'm+Mujahid+Pasha.;📖+Yes%2C+this+is+a+README;✨+Fine%2C+Scroll+down...)](https://git.io/typing-svg)
 
 ---
 
@@ -45,8 +47,15 @@ Passionate about turning data into insights and creating AI/ML solutions that so
 
 Here are some projects I’ve worked on. (Feel free to add links/descriptions.)
 
-- [Project A / AI Project] – Description: what it does, key features, technologies used.  
-- [Project B / Data Analysis Project] – Description: dataset, insights, tools.  
+- ChessVision – Built an ML-based tool to recognize chess puzzles from images and generate best-move solutions.
+                Implemented image-to-FEN mapping and integrated a chess engine for automated puzzle solving.
+  
+- Rubi-Flow – Developed a system to detect Rubik’s Cube faces from images and compute optimal solving steps.
+              Implemented state recognition + Kociemba’s algorithm to output a complete solution sequence.
+  
+- AirCursor - Built a vision-based system to control the mouse pointer using finger movements without physical devices.
+              Implemented hand landmark detection + gesture mapping for smooth cursor movement and click simulation.
+
 - [Portfolio Website](https://hm-mujahid.github.io/) – Showcases my work, résumé, skills & contact info.
 
 ---
