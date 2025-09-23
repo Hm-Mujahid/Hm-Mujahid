@@ -1,6 +1,6 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0CF7E2&width=600&lines=Hi%2C+I'm+Mujahid+Pasha.;Yes%2C+this+is+a+README;Fine%2C+Scroll+down...)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm Mujahid Pasha
+---
 
 **ML Engineer** | Bachelor's in Computer Science specializing in Artificial Intelligence  
 Passionate about turning data into insights and creating AI/ML solutions that solve real problems.
@@ -16,14 +16,28 @@ Passionate about turning data into insights and creating AI/ML solutions that so
 
 ---
 
-## 💼 Skills
+## 🛠️ Tech Stack
 
-| Domain | Technologies / Tools |
-|---|---|
-| Programming Languages | Python, (you can add JS, C++, etc. if you use them) |
-| ML / Data Science | Scikit-learn, TensorFlow / PyTorch (if applicable), Pandas, NumPy, Matplotlib / Seaborn (if you use viz) |
-| Data Storage & Retrieval | SQL (PostgreSQL, MySQL etc.), NoSQL (MongoDB etc.) |
-| Other Tools & Concepts | Git, version control, clean code, DSA |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-006400?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ---
 
@@ -41,10 +55,10 @@ Here are some projects I’ve worked on. (Feel free to add links/descriptions.)
 
 | Platform | Link |
 |---|---|
-| Email | [your-email@example.com](mailto:your-email@example.com) |
-| LinkedIn | [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) |
-| Twitter | [@yourtwitter](https://twitter.com/yourhandle) |
-| Instagram | [@yourinsta](https://instagram.com/yourhandle) |
+| Email | [hmmujahidpasha@gmail.com](mailto:hmmujahidpasha@gmail.com) |
+| LinkedIn | [https://linkedin.com/in/hm-mujahid-pasha-70298b374) |
+| Twitter | [https://x.com/Pasha317929060?t=jx7PLqC958qrhAsNNsugrg&s=09) |
+| Instagram | [https://www.instagram.com/mujahid_pasha5647?igsh=bnpxbjRoZXRvd3Rt) |
 
 ---
 
