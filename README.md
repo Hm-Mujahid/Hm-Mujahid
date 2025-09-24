@@ -1,6 +1,7 @@
 ##Heyy
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=550&height=60&lines=👋+Hi%2C+I'm+Mujahid+Pasha.;📖+Yes%2C+this+is+a+README;✨+Fine%2C+Scroll+down...&background=0D1117)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4CC&width=550&lines=👋+Hi%2C+I'm+Mujahid+Pasha.;📖+Yes%2C+this+is+a+README;✨+Fine%2C+Scroll+down...)](https://git.io/typing-svg)
+
 
 
 **ML Engineer** | Bachelor's in Computer Science specializing in Artificial Intelligence  
